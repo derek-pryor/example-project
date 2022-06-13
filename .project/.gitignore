@@ -1,0 +1,5 @@
+#Ignore generated or temporary files
+Dockerfile
+secrets.env
+cache/
+*.cache
